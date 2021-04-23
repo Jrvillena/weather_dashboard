@@ -53,7 +53,7 @@ var displayWeather = function(weather, searchCity){
 
    //create an image element
    var weatherIcon = document.createElement("img")
-   weatherIcon.setAttribute("src", `https://openweathermap.org/img/wn/${weather.weather[0].icon}@2x.png`);
+   weatherIcon.setAttribute("src", "https://openweathermap.org/img/w/" + weather.weather[0].icon + ".png");
    citySearchInputEl.appendChild(weatherIcon);
 
    //create a span element to hold temperature data
@@ -150,7 +150,7 @@ var display5Day = function(weather){
 
        //create date element
        var forecastDate = document.createElement("h5")
-       forecastDate.textContent= moment.unix(dailyForecast.dt).format("MMM D, YYYY");
+       forecastDate.textContent= moment.unix(dailyForecast.dt).format("M/D/YYYY");
        forecastDate.classList = "card-header text-center"
        forecastEl.appendChild(forecastDate);
 

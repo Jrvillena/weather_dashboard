@@ -1,3 +1,8 @@
+var cities = [];
+
+var cityFormEl=document.querySelector("#city-search-form");
+var cityInputEl=document.querySelector("#city");
+
 var formSumbitHandler = function(event){
     event.preventDefault();
     var city = cityInputEl.value.trim();

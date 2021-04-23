@@ -15,4 +15,5 @@ added images folder<br>
 tested launch from local drive<br>
 created github pages for live landing page<br>
 direct repo - https://github.com/Jrvillena/weather_dashboard<br>
-landing page - https://jrvillena.github.io/weather_dashboard/
+landing page - https://jrvillena.github.io/weather_dashboard/<br>
+[img] [assets/images/weather_dashboard_ss.png]

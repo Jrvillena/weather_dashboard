@@ -1,6 +1,16 @@
+.header {
+    padding: 1px;
+    text-align: center;
+    background-image: linear-gradient(to right,rgb(95, 140, 219), rgb(30, 3, 73));
+    color: rgb(14, 13, 13);
+    font-size: 45px;
+    font-family: Georgia, serif;
+}    
+
 
 .search-column{
-    background-color:	#D3D3D3;
+    background-color: white;
+    font-family: Georgia, serif;
 }
 
 .list-group-item{
@@ -13,17 +23,17 @@
 
 span.severe{
     padding: 4px;
-    background-color: rgb(129, 13, 13);
-    color:white;
+    background-color: rgb(231, 18, 18);
+    color:rgb(31, 30, 30);
 }
 
 span.moderate{
     padding: 4px;
-    background-color: yellow;
+    background-color: rgb(244, 225, 17);
 }
 
 span.favorable{
     padding: 4px;
-    background-color: green;
-    color:white;
+    background-color: rgb(22, 223, 66);
+    color:rgb(153, 153, 153);
 }

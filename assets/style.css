@@ -4,7 +4,7 @@
 }
 
 .list-group-item{
-    line-height: 0.5;
+    line-height: 1;
     border: none;
 }
 .card-body{
@@ -12,18 +12,18 @@
 }
 
 span.severe{
-    padding: 3px;
+    padding: px;
     background-color: red;
     color:white;
 }
 
 span.moderate{
-    padding: 3px;
+    padding: 4px;
     background-color: yellow;
 }
 
 span.favorable{
-    padding: 3px;
+    padding: 4px;
     background-color: green;
     color:white;
 }

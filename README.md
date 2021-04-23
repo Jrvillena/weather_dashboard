@@ -13,3 +13,6 @@ added source elements in html file<br>
 changed background color and search button color<br>
 added images folder<br>
 tested launch from local drive<br>
+created github pages for live landing page<br>
+direct repo - https://github.com/Jrvillena/weather_dashboard<br>
+landing page - https://jrvillena.github.io/weather_dashboard/

@@ -10,3 +10,6 @@ finished css file<br>
 added weather and temperature elements in javascript<br>
 added listener for submit form in javascript<br>
 added source elements in html file<br>
+changed background color and search button color<br>
+added images folder<br>
+tested launch from local drive<br>
